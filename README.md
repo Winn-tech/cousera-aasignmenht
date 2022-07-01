@@ -1,2 +1,3 @@
 # cousera-aasignmenht
-using the CSS to recreate a 12 column bootstrap grid system.
+Using  CSS to recreate the 12 COLUMN BOOTSTRAP GRID SYSTEM.
+My first attempt, but it came out well.
